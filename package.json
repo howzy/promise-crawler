@@ -1,0 +1,8 @@
+{
+  "name": "promise-crawler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/zh-once/promise-crawler.git",
+  "author": "once <1007552066@qq.com>",
+  "license": "MIT"
+}
